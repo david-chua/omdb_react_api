@@ -44,15 +44,19 @@ hr{
 }
 
 .category{
-  width: 100px;
+  width: 300px;
 }
 
 .rightTable{
-  margin-left: 50px;
+  width: 700px;;
 }
 
 .rightTable p{
   padding-top: 4px;
   font-size: 1.3em;
-  line-height: .6em;
+  line-height: 1em;
+}
+
+.ratings_p{
+  line-height: .2em !important;
 }
